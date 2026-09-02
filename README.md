@@ -9,4 +9,5 @@ My goals include learning how to script in some computer language, preferably py
 https://fauux.neocities.org/
 https://neal.fun/
 
-![alt text][https://i.pinimg.com/736x/84/1a/62/841a622e4b4977b378c9d98f492824c7.jpg]
+<img width="403" height="403" alt="image" src="https://github.com/user-attachments/assets/0d3acd5f-0657-4356-a7be-b591c0137f89" />
+
