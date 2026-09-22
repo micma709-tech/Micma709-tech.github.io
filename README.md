@@ -11,4 +11,5 @@ https://neal.fun/
 
 <img width="403" height="403" alt="image" src="https://github.com/user-attachments/assets/0d3acd5f-0657-4356-a7be-b591c0137f89" />
 
-cardboard.md
+https://micma709-tech.github.io/cardboard
+https://micma709-tech.github.io/arduino_project
