@@ -1,0 +1,6 @@
+Here, I did an autopsy on the code for a short Visual Novel called The Question made with Renpy. Since I've worked with Renpy before to make Visual Novels, I demonstrated how to change the character image 2 ways.
+First way, I uploaded an image of Knuckles off the internet into the photo library folder. Then I changed the code to use the file name from the image I uploaded, this is the more tedious option.
+The easier was is to keep the code unchanged but make a ton of copies of the image for each emotion since they're all different sprites and rename all copies the name of the previous sprites like "sylvie green smile" or "sylvie blue normal"
+The result is dating knuckles the hedgehog.
+The code itself is basically just changing between bg images and then showing or hiding different sprites of the characters. Speech is also written as character name and then speech.
+
